@@ -1,0 +1,211 @@
+#EXTM3U
+#EXTINF:-1  tvg-name="" tvg-id="https://www.24newshd.tv/" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel_24_pk.png" group-title="✯PAKISTAN✯ NEWS",24 News HD
+https://cdn12isb.tamashaweb.com:8087/jazzauth/24News-abr/live/vsat-92H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="https://365news.pk/" tvg-logo="https://www.lyngsat.com/logo/tv/num/365-news-pk.png" group-title="✯PAKISTAN✯ NEWS",365 News
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/365News-abr/live/vsat-abnnews-H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="https://8xm.tv/" tvg-logo="https://www.lyngsat.com/logo/tv/num/8xm-pk.png" group-title="✯PAKISTAN✯ MUSIC",8XM
+https://cdn12isb.tamashaweb.com:8087/jazzauth/8xm-abr/live/vsat-128H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="a1tv.pk" tvg-logo="https://www.lyngsat.com/logo/tv/aa/a1-tv-pk.png" group-title="✯PAKISTAN✯ NEWS",A1 TV
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/A1TV-abr/live/vsat-124H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="https://aajentertainment.tv/" tvg-logo="https://www.lyngsat.com/logo/tv/aa/aaj_entertainment_pk.png" group-title="✯PAKISTAN✯ Entertainment",Aaj Entertainment
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/AajEntertainment-abr/live/vsat-117H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="✯PAKISTAN✯ NEWS",AajNews
+https://cdn12isb.tamashaweb.com:8087/jazzauth/AajNews-abr/live/vsat-96H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="✯PAKISTAN✯ MUSIC",AAN-TV
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/AAN-TV-abr/live/vsat-aantv-H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="✯PAKISTAN✯ NEWS",abbtak
+https://cdn12isb.tamashaweb.com:8087/jazzauth/abbtak-abr/live/vsat-82H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="✯PAKISTAN✯ NEWS",ABNnews
+https://cdn21lhr.tamashaweb.com:8087/jazzauth/ABNnews-abr/live/vsat-aurlife-M/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="✯PAKISTAN✯ MUSIC",AL-Jazeera
+https://cdn12isb.tamashaweb.com:8087/jazzauth/AL-Jazeera-abr/live/vsat-aljazeera-H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="✯PAKISTAN✯ MUSIC",AnimalPlanet
+https://cdn12isb.tamashaweb.com:8087/jazzauth/AnimalPlanet-abr/live/158-3M/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/a-plus-pk.png" group-title="✯PAKISTAN✯ Entertainment",Aplus
+https://cdn23lhr.tamashaweb.com:8087/jazzauth/Aplus-abr/live/vsat-112M/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ary_digital_asia.png" group-title="✯PAKISTAN✯ Entertainment",ARY Digital
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/ARYdigital-abr/live/vsat-ary-H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ary_news_asia.png" group-title="✯PAKISTAN✯ NEWS",ARY News
+https://cdn02khi.tamashaweb.com:8087/jazzauth/ARYnews-abr/live/vsat-arynews-H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="✯PAKISTAN✯ Entertainment",ARYzindagi
+https://cdn02khi.tamashaweb.com:8087/jazzauth/ARYzindagi-abr/live/vsat-aryzindagi-H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="✯PAKISTAN✯ MUSIC",AurLife
+https://cdn12isb.tamashaweb.com:8087/jazzauth/AurLife-abr/live/vsat-365TV-H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="✯PAKISTAN✯ MUSIC",AVTkhyberTV
+https://cdn23lhr.tamashaweb.com:8087/jazzauth/AVTkhyberTV-abr/live/vsat-97H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="✯PAKISTAN✯ MUSIC",BabyTV
+https://cdn12isb.tamashaweb.com:8087/jazzauth/BabyTV-abr/live/188H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc_lifestyle_uk.png" group-title="✯PAKISTAN✯ NEWS",BBC Lifestyle 
+https://cdn12isb.tamashaweb.com:8087/jazzauth/BBC-Lifestyle-abr/live/205M-M/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-news-uk.svg" group-title="✯PAKISTAN✯ NEWS",BBC News
+https://cdn21lhr.tamashaweb.com:8087/jazzauth/BBCNEWS-abr/live/204M-M/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="✯PAKISTAN✯ MUSIC",BBC-Brit
+https://cdn23lhr.tamashaweb.com:8087/jazzauth/BBC-Brit-abr/live/202M-L/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="✯PAKISTAN✯ MUSIC",BBC-Cbeebies
+https://cdn12isb.tamashaweb.com:8087/jazzauth/BBC-Cbeebies-abr/live/203M-L/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-earth-uk.svg" group-title="✯PAKISTAN✯ Documentary",BBC-Earth
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/BBC-Earth-abr/live/206M-M/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="✯PAKISTAN✯ MUSIC",BBC-First
+https://cdn21lhr.tamashaweb.com:8087/jazzauth/BBC-First-abr/live/208B-M/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-news-uk.svg" group-title="✯PAKISTAN✯ NEWS",BBCNEWS
+https://cdn23lhr.tamashaweb.com:8087/jazzauth/BBCNEWS-abr/live/204M-L/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="✯PAKISTAN✯ NEWS",BolNews
+https://cdn12isb.tamashaweb.com:8087/jazzauth/BolNews-abr/live/vsat-145H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon-network-us.svg" group-title="✯PAKISTAN✯ KIND",Cartoon Network
+https://cdn7.mjunoon.tv:8087/web/cartoon-network-87/live/87H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="✯PAKISTAN✯ Documentary",CgtnDocumentary
+https://cdn12isb.tamashaweb.com:8087/jazzauth/CgtnDocumentary-abr/live/171H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="✯PAKISTAN✯ MUSIC",CgtnHD
+https://cdn21lhr.tamashaweb.com:8087/jazzauth/CgtnHD-abr/live/vsat-159H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/cc/champion-tv.png" group-title="✯PAKISTAN✯ INTERTAINMENT",championtv
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/championtv-abr/live/vsat-champion-H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="✯PAKISTAN✯ MUSIC",Channel5
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/Channel5-abr/live/vsat-channel5-H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="✯PAKISTAN✯ NEWS",city21
+https://cdn21lhr.tamashaweb.com:8087/jazzauth/city21-abr/live/vsat-122H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="✯PAKISTAN✯ NEWS",city41News
+https://cdn23lhr.tamashaweb.com:8087/jazzauth/city41News-abr/live/vsat-121H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="✯PAKISTAN✯ NEWS",city42(vnw)
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/city42(vnw)-abr/live/vsat-111H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/1762023245984.webp?id=52" group-title="✯PAKISTAN✯CRICKET",CRICKET
+https://cdn06khi.tamashaweb.com:8087/jazzauth/PKvSA-TOT-abr/live/PAKvsSA2025_720p/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dawn_news_pk.png" group-title="✯PAKISTAN✯ NEWS",Dawn News
+https://cdn21lhr.tamashaweb.com:8087/jazzauth/DawnNews-abr/live/vsat-130H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://digitalpakistan.pk/wp-content/uploads/2025/05/DP-PrimaryLogo-Filled-1000px-01-750x278-1.png" group-title="✯PAKISTAN✯ NEWS",Digital Pakistan
+https://cdn21lhr.tamashaweb.com:8087/jazzauth/Digital-pak-abr/live/DP-AI_480p/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-science-us.svg" group-title="✯PAKISTAN✯ Discovery",Discovery Science
+https://cdn12isb.tamashaweb.com:8087/jazzauth/Discovery-Science-abr/live/201M-M/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="✯PAKISTAN✯ Discovery",DiscoveryHD
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/DiscoveryHD-abr/live/178H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="✯PAKISTAN✯ Discovery",Discovery-Investigation
+https://cdn12isb.tamashaweb.com:8087/jazzauth/Discovery-Investigation-abr/live/209B-M/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="✯PAKISTAN✯ Discovery",DiscoveryPakistan
+https://cdn21lhr.tamashaweb.com:8087/jazzauth/DiscoveryPakistan-abr/live/vsat-108H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="✯PAKISTAN✯ Discovery",Discovery-Turbo
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/Discovery-Turbo-abr/live/207B-L/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="✯PAKISTAN✯ MUSIC",Eurosport
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/Eurosport-abr/live/182H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="✯PAKISTAN✯  Entertainment",ExpressEntertainment
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/ExpressEntertainment-abr/live/vsat-83H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="✯PAKISTAN✯  Entertainment",Filmax
+https://cdn21lhr.tamashaweb.com:8087/jazzauth/Filmax-abr/live/vsat-filmax-H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/gg/geo_news_international.png" group-title="✯PAKISTAN✯ NEWS",Geo News
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/geoNews-abr/live/vsat-93H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/gg/geo_tv_uk.png" group-title="✯PAKISTAN✯  Entertainment",Geo Tv Entertainment
+https://cdn23lhr.tamashaweb.com:8087/jazzauth/GeoEntertainment-abr/live/vsat-geotv-H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/gg/geo_news_international.png" group-title="✯PAKISTAN✯ NEWS",geoNews
+https://cdn21lhr.tamashaweb.com:8087/jazzauth/geoNews-abr/live/vsat-93H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="✯PAKISTAN✯ MUSIC",GNN
+https://cdn23lhr.tamashaweb.com:8087/jazzauth/GNN-abr/live/vsat-gnn-H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="✯PAKISTAN✯  Entertainment",Green_Entertainment
+https://cdn21lhr.tamashaweb.com:8087/jazzauth/Green_Entertainment-abr/live/vsat-green-H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="✯PAKISTAN✯ NEWS",GTVNews
+https://cdn12isb.tamashaweb.com:8087/jazzauth/GTVNews-abr/live/vsat-129H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="✯PAKISTAN✯ SPORTS",Guard-Breaker
+https://cdn02isb-n.tamashaweb.com:8087/jazzauth/Guard-Breaker-abr/live/DAFTERKHWAN-promo/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="✯PAKISTAN✯  Entertainment",hummasala
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/hummasala-abr/live/vsat-118H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="✯PAKISTAN✯ MUSIC",HumSitaray
+https://cdn12isb.tamashaweb.com:8087/jazzauth/HumSitaray-abr/live/vsat-107H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="✯PAKISTAN✯  Entertainment",humTV
+https://cdn02khi.tamashaweb.com:8087/jazzauth/humTV-abr/live/vsat-humtv-M/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="✯PAKISTAN✯ MUSIC",Inplus
+https://cdn23lhr.tamashaweb.com:8087/jazzauth/Inplus-abr/live/vsat-151H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="✯PAKISTAN✯ MUSIC",jalwa
+https://cdn23lhr.tamashaweb.com:8087/jazzauth/jalwa-abr/live/vsat-81H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="✯PAKISTAN✯ MUSIC",KashishTV
+https://cdn23lhr.tamashaweb.com:8087/jazzauth/KashishTV-abr/live/vsat-115H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kay-2-pk.png" group-title="✯PAKISTAN✯  Entertainment",Kay2
+https://cdn23lhr.tamashaweb.com:8087/jazzauth/Kay2-abr/live/vsat-116H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="✯PAKISTAN✯ NEWS",KhyberNews
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/KhyberNews-abr/live/vsat-98H/chunks.m3u8
+#EXTINF:-1  tvg-name="IN | KIDS ZONE HD" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kidzoneplus-pakistan-ee-pk.png" group-title="✯PAKISTAN✯ KIDS",KIDS ZONE HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/246774.ts
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="✯PAKISTAN✯ MUSIC",KohinoorTV
+https://cdn12isb.tamashaweb.com:8087/jazzauth/KohinoorTV-abr/live/vsat-87H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="✯PAKISTAN✯  Entertainment",ktnEntertainment
+https://cdn21lhr.tamashaweb.com:8087/jazzauth/ktnEntertainment-abr/live/vsat-105H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="✯PAKISTAN✯ Regional",ktnNews
+https://cdn21lhr.tamashaweb.com:8087/jazzauth/ktnNews-abr/live/vsat-132H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="✯PAKISTAN✯ MUSIC",LahoreRung
+https://cdn02khi.tamashaweb.com:8087/jazzauth/LahoreRung-abr/live/vsat-86H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="✯PAKISTAN✯ MUSIC",Livecnn
+https://cdn02khi.tamashaweb.com:8087/jazzauth/Livecnn-abr/live/86H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="✯PAKISTAN✯ MUSIC",LTNFamily
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/LTNFamily-abr/live/vsat-ltntv-H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="✯PAKISTAN✯ MUSIC",Madni
+https://cdn05khi.tamashaweb.com:8087/jazzauth/Madni-abr/live/vsat-94H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="✯PAKISTAN✯ MUSIC",mashriqtv
+https://cdn12isb.tamashaweb.com:8087/jazzauth/mashriqtv-abr/live/vsat-109H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="✯PAKISTAN✯ MUSIC",MehranTV
+https://cdn12isb.tamashaweb.com:8087/jazzauth/MehranTV-abr/live/vsat-106H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="✯PAKISTAN✯ NEWS",Metro1News
+https://cdn21lhr.tamashaweb.com:8087/jazzauth/Metro1News-abr/live/vsat-147H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="✯PAKISTAN✯ MUSIC",Minimax
+https://cdn23lhr.tamashaweb.com:8087/jazzauth/Minimax-abr/live/vsat-88H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="✯PAKISTAN✯ MUSIC",MovieOne
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/MovieOne-abr/live/vsat-95H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="✯PAKISTAN✯ NEWS",NeoNews
+https://cdn23lhr.tamashaweb.com:8087/jazzauth/NeoNews-abr/live/vsat-110H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="✯PAKISTAN✯ MUSIC",NewsOne
+https://cdn23lhr.tamashaweb.com:8087/jazzauth/NewsOne-abr/live/vsat-100H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pashto-1-pk.png" group-title="✯PAKISTAN✯ Regional",Pashto1
+https://cdn12isb.tamashaweb.com:8087/jazzauth/Pashto1-abr/live/vsat-113H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/aik-news-pk.png" group-title="✯PAKISTAN✯ NEWS",PNN
+https://cdn21lhr.tamashaweb.com:8087/jazzauth/PNN-abr/live/vsat-84H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptv-home-pk.png" group-title="✯PAKISTAN✯  Entertainment",PTV Home
+https://cdn21lhr.tamashaweb.com:8087/jazzauth/PTVHome-abr/live/190H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptv-home-pk.png" group-title="✯PAKISTAN✯  Entertainment",PTV Home
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/PTVHome-abr/live/190H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptv-news-pk.png" group-title="✯PAKISTAN✯ NEWS",PTV News
+https://cdn12isb.tamashaweb.com:8087/jazzauth/PTVNews-abr/live/191H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="✯PAKISTAN✯ MUSIC",PTVBolan
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/PTVBolan-abr/live/194H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="✯PAKISTAN✯ MUSIC",PTVNational
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/PTVNational-abr/live/193H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptv-sports-pk.png" group-title="✯PAKISTAN✯ SPORTS",PTVSports
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/PTVSports-abr/live/189H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="✯PAKISTAN✯ MUSIC",PTVWorld
+https://cdn23lhr.tamashaweb.com:8087/jazzauth/PTVWorld-abr/live/192M/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="✯PAKISTAN✯ MUSIC",PublicTV
+https://cdn12isb.tamashaweb.com:8087/jazzauth/PublicTV-abr/live/vsat-120H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="✯PAKISTAN✯ MUSIC",RohiTV
+https://cdn23lhr.tamashaweb.com:8087/jazzauth/RohiTV-abr/live/vsat-114H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="✯PAKISTAN✯ NEWS",RozNews
+https://cdn02khi.tamashaweb.com:8087/jazzauth/RozNews-abr/live/vsat-126H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="✯PAKISTAN✯ MUSIC",SabTV
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/SabTV-abr/live/vsat-146H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="✯PAKISTAN✯ NEWS",SachTV
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/SachTV/live/vsat-suchnews-H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/samaa-tv-pk.svg" group-title="✯PAKISTAN✯ NEWS",Samaa TV
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/samaaTV-abr/live/vsat-123H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="✯PAKISTAN✯ MUSIC",Saudimakkah(nw)
+https://cdn21lhr.tamashaweb.com:8087/jazzauth/Saudimakkah(nw)-abr/live/vsat-150H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="✯PAKISTAN✯ MUSIC",SaudiSunnah(NW)
+https://cdn21lhr.tamashaweb.com:8087/jazzauth/SaudiSunnah(NW)-abr/live/vsat-149H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="✯PAKISTAN✯ NEWS",seeTV
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/seeTV-abr/live/vsat-136H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="✯PAKISTAN✯ MUSIC",SetEntertainment
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/SetEntertainment-abr/live/vsat-setent-H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="✯PAKISTAN✯ NEWS",SindhNews
+https://cdn12isb.tamashaweb.com:8087/jazzauth/SindhNews-abr/live/vsat-80H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="✯PAKISTAN✯ MUSIC",sindhTV
+https://cdn21lhr.tamashaweb.com:8087/jazzauth/sindhTV-abr/live/vsat-sindhtv-M/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun-news-pk.png" group-title="✯PAKISTAN✯ NEWS",Sun News
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/SUN-NEWS-abr/live/187H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="https://sunonews.tv/" tvg-logo="https://www.lyngsat.com/logo/tv/ss/suno-news-hd-pk.png" group-title="✯PAKISTAN✯ NEWS",Suno_News
+https://cdn23lhr.tamashaweb.com:8087/jazzauth/Suno_News-abr/live/vsat-89H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/1762201405506.webp?id=16" group-title="✯PAKISTAN✯  Entertainment",Tamasha-Life-HD
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/Tamasha-Life-HD-abr/live/Tamasha-Life-HD-H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/1744124970890.webp?id=46" group-title="✯PAKISTAN✯ NEWS",Tamasha-News
+https://cdn12isb.tamashaweb.com:8087/jazzauth/Tamasha-News-abr/live/AI-News_240p/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/tt/ten_sports_in_pakistan.png" group-title="✯PAKISTAN✯ SPORTS",Ten Sports
+https://cdn12isb.tamashaweb.com:8087/jazzauth/Tensports-abr/live/blackout1/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/tt/time-news-pk.png" group-title="✯PAKISTAN✯ NEWS",Time News
+https://cdn05khi.tamashaweb.com:8087/jazzauth/TimeNews-abr/live/vsat-125H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="https://www.travelchannel.com/" tvg-logo="https://www.lyngsat.com/logo/tv/tt/travel-channel-europe-us.png" group-title="✯PAKISTAN✯ Discovery",Travel Channel
+https://cdn23lhr.tamashaweb.com:8087/jazzauth/Travel-Channel-abr/playlist.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="https://tvonepk.tv/" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-one-pk.png" group-title="✯PAKISTAN✯  Entertainment",TV One
+https://cdn02khi.tamashaweb.com:8087/jazzauth/TVOne-abr/live/vsat-99H/chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="http://www.waseb.tv/" tvg-logo="https://www.lyngsat.com/logo/tv/ww/waseb-tv-pk.png" group-title="✯PAKISTAN✯ Regional",Waseb TV
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/waseeb-abr/live/vsat-waseb-H/chunks.m3u8
