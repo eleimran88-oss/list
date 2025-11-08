@@ -23,7 +23,7 @@ https://cdn12isb.tamashaweb.com:8087/jazzauth/AL-Jazeera-abr/live/vsat-aljazeera
 https://cdn12isb.tamashaweb.com:8087/jazzauth/AnimalPlanet-abr/live/158-3M/chunks.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/a-plus-pk.png" group-title="✯PAKISTAN✯ Entertainment",Aplus
 https://cdn23lhr.tamashaweb.com:8087/jazzauth/Aplus-abr/live/vsat-112M/chunks.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ary_digital_asia.png" group-title="✯PAKISTAN✯ Entertainment",ARY Digital
+#EXTINF:-1  tvg-name="" tvg-id="https://arydigital.tv/schedule" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ary_digital_asia.png" group-title="✯PAKISTAN✯ Entertainment",ARY Digital
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/ARYdigital-abr/live/vsat-ary-H/chunks.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ary_news_asia.png" group-title="✯PAKISTAN✯ NEWS",ARY News
 https://cdn02khi.tamashaweb.com:8087/jazzauth/ARYnews-abr/live/vsat-arynews-H/chunks.m3u8
