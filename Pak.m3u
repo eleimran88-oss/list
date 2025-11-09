@@ -111,9 +111,9 @@ https://cdn12isb.tamashaweb.com:8087/jazzauth/8xm-abr/live/vsat-128H/chunks.m3u8
 https://cdn23lhr.tamashaweb.com:8087/jazzauth/jalwa-abr/live/vsat-81H/chunks.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/mm/minimax-pakistan-hu-pk.png" group-title="✯Pakistan✯Music",Minimax Pakistan
 https://cdn23lhr.tamashaweb.com:8087/jazzauth/Minimax-abr/live/vsat-88H/chunks.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptv-bolan-pk.png" group-title="✯Pakistan✯Music",PTV Bolan
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptv-bolan-pk.png" group-title="✯Pakistan✯Entertainment",PTV Bolan
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/PTVBolan-abr/live/194H/chunks.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptv_national_pk.png" group-title="✯Pakistan✯Music",PTV National
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptv_national_pk.png" group-title="✯Pakistan✯Entertainment",PTV National
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/PTVNational-abr/live/193H/chunks.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="www.babytv.com" tvg-logo="https://www.lyngsat.com/logo/tv/bb/baby_tv_eu.png" group-title="✯Pakistan✯Kids",Baby TV
 https://cdn12isb.tamashaweb.com:8087/jazzauth/BabyTV-abr/live/188H/chunks.m3u8
