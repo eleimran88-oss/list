@@ -597,3 +597,458 @@ http://163.61.227.29:8000/play/a028/index.m3u8
 http://163.61.227.29:8000/play/a027/index.m3u8
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/mm/mashriq-tv-pk.png" group-title="Pakistan;Urdu;News",Mashriq TV
 http://163.61.227.29:8000/play/a001/index.m3u8
+
+
+#EXTM3U
+#EXTINF:-1 group-title="News", CNN
+http://116.90.120.149:8000/play/a01b/index.m3u8
+#EXTINF:-1 group-title="Religious", Isaac TV
+http://116.90.120.149:8000/play/a0tg/index.m3u8
+#EXTINF:-1 group-title="Regional", WASEB
+http://116.90.120.149:8000/play/a00p/index.m3u8
+#EXTINF:-1 group-title="Entertainment",& TV HD
+http://116.90.120.149:8000/play/a133/index.m3u8
+#EXTINF:-1 group-title="Movies",& pictures HD 
+http://116.90.120.149:8000/play/a132/index.m3u8
+#EXTINF:-1 group-title="General",&Xplor HD - Rs 4.00
+http://116.90.120.149:8000/play/a11o/index.m3u8
+#EXTINF:-1 group-title="General",.Black
+http://116.90.120.149:8000/play/a0s4/index.m3u8
+#EXTINF:-1 group-title="General",13 ULICA
+http://116.90.120.149:8000/play/a0l4/index.m3u8
+#EXTINF:-1 group-title="General",13 Ulica HD
+http://116.90.120.149:8000/play/a0r9/index.m3u8
+#EXTINF:-1 group-title="Religious",24/7 All Quran
+http://116.90.120.149:8000/play/a0tp/index.m3u8
+#EXTINF:-1 group-title="24/7 Loops",24/7 Motu Patlu
+http://116.90.120.149:8000/play/a0ts/index.m3u8
+#EXTINF:-1 group-title="24/7 Loops",24/7 Nusrat Fateh Ali
+http://116.90.120.149:8000/play/a0ty/index.m3u8
+#EXTINF:-1 group-title="24/7 Loops",24/7 Punjabi 1
+http://116.90.120.149:8000/play/a0tk/index.m3u8
+#EXTINF:-1 group-title="24/7 Loops",24/7 mehak-malik
+http://116.90.120.149:8000/play/a0tu/index.m3u8
+#EXTINF:-1 group-title="Religious",24/7 naat
+http://116.90.120.149:8000/play/a0tx/index.m3u8
+#EXTINF:-1 group-title="24/7 Loops",24/7 punjabi 2
+http://116.90.120.149:8000/play/a0tl/index.m3u8
+#EXTINF:-1 group-title="24/7 Loops",24/7 punjabi 3
+http://116.90.120.149:8000/play/a0tm/index.m3u8
+#EXTINF:-1 group-title="24/7 Loops",24/7 punjabi 4
+http://116.90.120.149:8000/play/a0tn/index.m3u8
+#EXTINF:-1 group-title="24/7 Loops",24/7-Ertugral-Gazi
+http://116.90.120.149:8000/play/a0tr/index.m3u8
+#EXTINF:-1 group-title="24/7 Loops",24/7-karlus-osman
+http://116.90.120.149:8000/play/a13c/index.m3u8
+#EXTINF:-1 group-title="24/7 Loops",24/7-pak-movies-1
+http://116.90.120.149:8000/play/a0tz/index.m3u8
+#EXTINF:-1 group-title="24/7 Loops",24/7-pak-movies-2
+http://116.90.120.149:8000/play/a0u0/index.m3u8
+#EXTINF:-1 group-title="24/7 Loops",24/7-pak-movies-3
+http://116.90.120.149:8000/play/a0u1/index.m3u8
+#EXTINF:-1 group-title="24/7 Loops",24/7-stage-drama
+http://116.90.120.149:8000/play/a0tt/index.m3u8
+#EXTINF:-1 group-title="News",365 NEWS
+http://116.90.120.149:8000/play/a00e/index.m3u8
+#EXTINF:-1 group-title="News",365 NEWS HD
+http://116.90.120.149:8000/play/a0rl/index.m3u8
+#EXTINF:-1 group-title="Music",8XM 
+http://116.90.120.149:8000/play/a0tw/index.m3u8
+#EXTINF:-1 group-title="News",92 News HD
+http://116.90.120.149:8000/play/a00d/index.m3u8
+#EXTINF:-1 group-title="News",92 News HD
+http://116.90.120.149:8000/play/a0rj/index.m3u8
+#EXTINF:-1 group-title="Regional",A TV PK
+http://116.90.120.149:8000/play/a0rq/index.m3u8
+#EXTINF:-1 group-title="Entertainment",AAJ ENT
+http://116.90.120.149:8000/play/a00g/index.m3u8
+#EXTINF:-1 group-title="Entertainment",AAJ ENT
+http://116.90.120.149:8000/play/a0rw/index.m3u8
+#EXTINF:-1 group-title="News",AAJ NEWS
+http://116.90.120.149:8000/play/a0ru/index.m3u8
+#EXTINF:-1 group-title="News",AAJ NEWS
+http://116.90.120.149:8000/play/a00f/index.m3u8
+#EXTINF:-1 group-title="News",ABN News
+http://116.90.120.149:8000/play/a01r/index.m3u8
+#EXTINF:-1 group-title="News",ABN News - HD
+http://116.90.120.149:8000/play/a0s2/index.m3u8
+#EXTINF:-1 group-title="News",AGN NEWS
+http://116.90.120.149:8000/play/a01i/index.m3u8
+#EXTINF:-1 group-title="News",AGN NEWSE
+http://116.90.120.149:8000/play/a0rr/index.m3u8
+#EXTINF:-1 group-title="News",AIK NEWS
+http://116.90.120.149:8000/play/a0s0/index.m3u8
+#EXTINF:-1 group-title="Regional",ARUJ TV
+http://116.90.120.149:8000/play/a0se/index.m3u8
+#EXTINF:-1 group-title="Regional",ATV
+http://116.90.120.149:8000/play/a00k/index.m3u8
+#EXTINF:-1 group-title="Entertainment",AXN HD
+http://116.90.120.149:8000/play/a0qt/index.m3u8
+#EXTINF:-1 group-title="News",Aik News
+http://116.90.120.149:8000/play/a022/index.m3u8
+#EXTINF:-1 group-title="Religious",Al Zahra
+http://116.90.120.149:8000/play/a0t8/index.m3u8
+#EXTINF:-1 group-title="Documentaries",Animal Planet HD 
+http://116.90.120.149:8000/play/a12l/index.m3u8
+#EXTINF:-1 group-title="General",BLACK HD
+http://116.90.120.149:8000/play/a0ac/index.m3u8
+#EXTINF:-1 group-title="Religious",Barkat TV
+http://116.90.120.149:8000/play/a0tf/index.m3u8
+#EXTINF:-1 group-title="General",ByPass
+http://116.90.120.149:8000/play/a0sf/index.m3u8
+#EXTINF:-1 group-title="General",CH-11
+http://116.90.120.149:8000/play/a0rk/index.m3u8
+#EXTINF:-1 group-title="Kids",Cartoon Network HD
+http://116.90.120.149:8000/play/a114/index.m3u8
+#EXTINF:-1 group-title="Entertainment",Colors HD - Rs 19.00
+http://116.90.120.149:8000/play/a11y/index.m3u8
+#EXTINF:-1 group-title="Entertainment",Colors Infinity HD - Rs 15.00
+http://116.90.120.149:8000/play/a12m/index.m3u8
+#EXTINF:-1 group-title="Kids",DA VINIC
+http://116.90.120.149:8000/play/a0ad/index.m3u8
+#EXTINF:-1 group-title="News",DM News English
+http://116.90.120.149:8000/play/a0ta/index.m3u8
+#EXTINF:-1 group-title="Kids",Da Vinci
+http://116.90.120.149:8000/play/a0s6/index.m3u8
+#EXTINF:-1 group-title="News",Dawn News
+http://116.90.120.149:8000/play/a01s/index.m3u8
+#EXTINF:-1 group-title="News",Dawn News TV
+http://116.90.120.149:8000/play/a0ry/index.m3u8
+#EXTINF:-1 group-title="Regional",Discover Pakistan
+http://116.90.120.149:8000/play/a0s8/index.m3u8
+#EXTINF:-1 group-title="Regional",Discover Pakistan
+http://116.90.120.149:8000/play/a01t/index.m3u8
+#EXTINF:-1 group-title="Documentaries",Discovery HD
+http://116.90.120.149:8000/play/a11a/index.m3u8
+#EXTINF:-1 group-title="Documentaries",Discovery Science
+http://116.90.120.149:8000/play/a11b/index.m3u8
+#EXTINF:-1 group-title="Documentaries",Discovery Turbo - Rs 1.00
+http://116.90.120.149:8000/play/a11d/index.m3u8
+#EXTINF:-1 group-title="Kids",Disney Channel - Rs 12.00
+http://116.90.120.149:8000/play/a124/index.m3u8
+#EXTINF:-1 group-title="Kids",Disney Channel HD 
+http://116.90.120.149:8000/play/a11r/index.m3u8
+#EXTINF:-1 group-title="News",Dunya News HD
+http://116.90.120.149:8000/play/a0sc/index.m3u8
+#EXTINF:-1 group-title="Entertainment",E! ENTER
+http://116.90.120.149:8000/play/a0kz/index.m3u8
+#EXTINF:-1 group-title="Entertainment",EXP ENT.
+http://116.90.120.149:8000/play/a00l/index.m3u8
+#EXTINF:-1 group-title="News",EXP NEWS
+http://116.90.120.149:8000/play/a00c/index.m3u8
+#EXTINF:-1 group-title="Sports",EXTREAM SPORTS
+http://116.90.120.149:8000/play/a0af/index.m3u8
+#EXTINF:-1 group-title="Sports",Eurosport HD 
+http://116.90.120.149:8000/play/a118/index.m3u8
+#EXTINF:-1 group-title="Entertainment",FX COMEDY HD
+http://116.90.120.149:8000/play/a0qr/index.m3u8
+#EXTINF:-1 group-title="GEM Network",GEM BOLLYWOOD
+http://116.90.120.149:8000/play/a0sj/index.m3u8
+#EXTINF:-1 group-title="GEM Network",GEM CLASIC
+http://116.90.120.149:8000/play/a019/index.m3u8
+#EXTINF:-1 group-title="GEM Network",GEM CLASSIC
+http://116.90.120.149:8000/play/a0sk/index.m3u8
+#EXTINF:-1 group-title="GEM Network",GEM COMEDY
+http://116.90.120.149:8000/play/a014/index.m3u8
+#EXTINF:-1 group-title="GEM Network",GEM DRAMA
+http://116.90.120.149:8000/play/a0st/index.m3u8
+#EXTINF:-1 group-title="GEM Network",GEM DRAMA HD
+http://116.90.120.149:8000/play/a011/index.m3u8
+#EXTINF:-1 group-title="GEM Network",GEM ENTERTAINMENT
+http://116.90.120.149:8000/play/a0sp/index.m3u8
+#EXTINF:-1 group-title="GEM Network",GEM FILM
+http://116.90.120.149:8000/play/a0ss/index.m3u8
+#EXTINF:-1 group-title="GEM Network",GEM FIT
+http://116.90.120.149:8000/play/a0ql/index.m3u8
+#EXTINF:-1 group-title="GEM Network",GEM FOOD
+http://116.90.120.149:8000/play/a0qj/index.m3u8
+#EXTINF:-1 group-title="GEM Network",GEM JUNIOR
+http://116.90.120.149:8000/play/a0sn/index.m3u8
+#EXTINF:-1 group-title="GEM Network",GEM KIDS
+http://116.90.120.149:8000/play/a0sq/index.m3u8
+#EXTINF:-1 group-title="GEM Network",GEM LIFE
+http://116.90.120.149:8000/play/a0si/index.m3u8
+#EXTINF:-1 group-title="GEM Network",GEM MUSIC
+http://116.90.120.149:8000/play/a013/index.m3u8
+#EXTINF:-1 group-title="GEM Network",GEM NATURE
+http://116.90.120.149:8000/play/a0sm/index.m3u8
+#EXTINF:-1 group-title="GEM Network",GEM NATURE
+http://116.90.120.149:8000/play/a0qm/index.m3u8
+#EXTINF:-1 group-title="GEM Network",GEM NATURE HD
+http://116.90.120.149:8000/play/a015/index.m3u8
+#EXTINF:-1 group-title="GEM Network",GEM PIXEL
+http://116.90.120.149:8000/play/a0su/index.m3u8
+#EXTINF:-1 group-title="GEM Network",GEM SERIES
+http://116.90.120.149:8000/play/a0sl/index.m3u8
+#EXTINF:-1 group-title="GEM Network",GEM SERIES HD
+http://116.90.120.149:8000/play/a012/index.m3u8
+#EXTINF:-1 group-title="GEM Network",GEM SPORT SD
+http://116.90.120.149:8000/play/a0sr/index.m3u8
+#EXTINF:-1 group-title="GEM Network",GEM SPORTS
+http://116.90.120.149:8000/play/a0qk/index.m3u8
+#EXTINF:-1 group-title="GEM Network",GEM TV
+http://116.90.120.149:8000/play/a0so/index.m3u8
+#EXTINF:-1 group-title="GEM Network",GEM TV HD
+http://116.90.120.149:8000/play/a010/index.m3u8
+#EXTINF:-1 group-title="News",GNNHD
+http://116.90.120.149:8000/play/a0sw/index.m3u8
+#EXTINF:-1 group-title="News",GNNHD
+http://116.90.120.149:8000/play/a004/index.m3u8
+#EXTINF:-1 group-title="Sports",GOLF ZONE
+http://116.90.120.149:8000/play/a0l2/index.m3u8
+#EXTINF:-1 group-title="Entertainment",Geo ENT
+http://116.90.120.149:8000/play/a020/index.m3u8
+#EXTINF:-1 group-title="News",Geo News
+http://116.90.120.149:8000/play/a023/index.m3u8
+#EXTINF:-1 group-title="Sports",Geo Super
+http://116.90.120.149:8000/play/a021/index.m3u8
+#EXTINF:-1 group-title="Entertainment",Green Ent
+http://116.90.120.149:8000/play/a01p/index.m3u8
+#EXTINF:-1 group-title="Entertainment",GreenEnt - HD
+http://116.90.120.149:8000/play/a0r7/index.m3u8
+#EXTINF:-1 group-title="Documentaries",HISTORY 2 
+http://116.90.120.149:8000/play/a0l1/index.m3u8
+#EXTINF:-1 group-title="Documentaries",HISTORY HD HOTBIRD
+http://116.90.120.149:8000/play/a0qv/index.m3u8
+#EXTINF:-1 group-title="Religious",Hidayat TV
+http://116.90.120.149:8000/play/a0t9/index.m3u8
+#EXTINF:-1 group-title="Documentaries",History TV18 HD
+http://116.90.120.149:8000/play/a12z/index.m3u8
+#EXTINF:-1 group-title="General",Hoora TV
+http://116.90.120.149:8000/play/a0sy/index.m3u8
+#EXTINF:-1 group-title="General",Hoorah TV
+http://116.90.120.149:8000/play/a01n/index.m3u8
+#EXTINF:-1 group-title="News",Hum News
+http://116.90.120.149:8000/play/a024/index.m3u8
+#EXTINF:-1 group-title="Documentaries",Investigation Discovery
+http://116.90.120.149:8000/play/a119/index.m3u8
+#EXTINF:-1 group-title="Documentaries",Investigation Discovery HD - Rs 2.00
+http://116.90.120.149:8000/play/a12u/index.m3u8
+#EXTINF:-1 group-title="Music",JALWA MUSIC
+http://116.90.120.149:8000/play/a0tv/index.m3u8
+#EXTINF:-1 group-title="Sports",KSA SPORT 1
+http://116.90.120.149:8000/play/a01x/index.m3u8
+#EXTINF:-1 group-title="Sports",KSA SPORT 2
+http://116.90.120.149:8000/play/a01y/index.m3u8
+#EXTINF:-1 group-title="Sports",KSA SPORT1 HD
+http://116.90.120.149:8000/play/a0t0/index.m3u8
+#EXTINF:-1 group-title="Sports",KSA SPORT2 HD
+http://116.90.120.149:8000/play/a0t1/index.m3u8
+#EXTINF:-1 group-title="Sports",KSA SPORTS 3
+http://116.90.120.149:8000/play/a01z/index.m3u8
+#EXTINF:-1 group-title="Sports",KSA SPORTS 3 HD
+http://116.90.120.149:8000/play/a0t2/index.m3u8
+#EXTINF:-1 group-title="Sports",KSA SPORTS 4 HD
+http://116.90.120.149:8000/play/a0t3/index.m3u8
+#EXTINF:-1 group-title="Kids",LDN KIDS
+http://116.90.120.149:8000/play/a001/index.m3u8
+#EXTINF:-1 group-title="General",LDN-SPECIAL
+http://116.90.120.149:8000/play/a0tq/index.m3u8
+#EXTINF:-1 group-title="News",Lahore News
+http://116.90.120.149:8000/play/a0sd/index.m3u8
+#EXTINF:-1 group-title="News",Lahore News
+http://116.90.120.149:8000/play/a00a/index.m3u8
+#EXTINF:-1 group-title="News",Lahore Rang HD
+http://116.90.120.149:8000/play/a0sb/index.m3u8
+#EXTINF:-1 group-title="Religious",MADANI TV
+http://116.90.120.149:8000/play/a00j/index.m3u8
+#EXTINF:-1 group-title="Religious",MADANI TV-HD C-Band
+http://116.90.120.149:8000/play/a0rm/index.m3u8
+#EXTINF:-1 group-title="Movies",MN+ HD
+http://116.90.120.149:8000/play/a11k/index.m3u8
+#EXTINF:-1 group-title="Movies",MNX
+http://116.90.120.149:8000/play/a11e/index.m3u8
+#EXTINF:-1 group-title="Movies",MNX HD
+http://116.90.120.149:8000/play/a11m/index.m3u8
+#EXTINF:-1 group-title="Music",MTV HD
+http://116.90.120.149:8000/play/a136/index.m3u8
+#EXTINF:-1 group-title="Music",MTV HD - Rs 8.00
+http://116.90.120.149:8000/play/a0xj/index.m3u8
+#EXTINF:-1 group-title="Entertainment",MUN TV
+http://116.90.120.149:8000/play/a00m/index.m3u8
+#EXTINF:-1 group-title="Entertainment",MUN TV
+http://116.90.120.149:8000/play/a0rt/index.m3u8
+#EXTINF:-1 group-title="Movies",Movies Now HD
+http://116.90.120.149:8000/play/a11f/index.m3u8
+#EXTINF:-1 group-title="Documentaries",NAT GEO PEOPLE HOT
+http://116.90.120.149:8000/play/a0qp/index.m3u8
+#EXTINF:-1 group-title="Documentaries",NATIONAL GEOGRAPHIC HD
+http://116.90.120.149:8000/play/a115/index.m3u8
+#EXTINF:-1 group-title="News",NEO NEWS HD
+http://116.90.120.149:8000/play/a0sa/index.m3u8
+#EXTINF:-1 group-title="News",NEWS ONE
+http://116.90.120.149:8000/play/a00q/index.m3u8
+#EXTINF:-1 group-title="News",NTN NEWS
+http://116.90.120.149:8000/play/a0rz/index.m3u8
+#EXTINF:-1 group-title="Documentaries",Nat Geo Wild HD
+http://116.90.120.149:8000/play/a11h/index.m3u8
+#EXTINF:-1 group-title="Kids",Nick HD
+http://116.90.120.149:8000/play/a11j/index.m3u8
+#EXTINF:-1 group-title="Kids",Nick Jr.
+http://116.90.120.149:8000/play/a12d/index.m3u8
+#EXTINF:-1 group-title="Movies",ONYX HD
+http://116.90.120.149:8000/play/a017/index.m3u8
+#EXTINF:-1 group-title="Movies",OSN ACTION
+http://116.90.120.149:8000/play/a0ax/index.m3u8
+#EXTINF:-1 group-title="Movies",PITTARA MOVIES
+http://116.90.120.149:8000/play/a0ky/index.m3u8
+#EXTINF:-1 group-title="General",PLAN B
+http://116.90.120.149:8000/play/a0am/index.m3u8
+#EXTINF:-1 group-title="General",PLANET-6
+http://116.90.120.149:8000/play/a0sh/index.m3u8
+#EXTINF:-1 group-title="Religious",Paigham Pashto
+http://116.90.120.149:8000/play/a0t7/index.m3u8
+#EXTINF:-1 group-title="Religious",Paigham Urdu
+http://116.90.120.149:8000/play/a0t5/index.m3u8
+#EXTINF:-1 group-title="Religious",Paigham Urdu
+http://116.90.120.149:8000/play/a00h/index.m3u8
+#EXTINF:-1 group-title="Religious",QURAN TV
+http://116.90.120.149:8000/play/a0t6/index.m3u8
+#EXTINF:-1 group-title="Entertainment",RED TV
+http://116.90.120.149:8000/play/a0an/index.m3u8
+#EXTINF:-1 group-title="General",RIVER HD
+http://116.90.120.149:8000/play/a00z/index.m3u8
+#EXTINF:-1 group-title="News",ROZE NEWS
+http://116.90.120.149:8000/play/a0qz/index.m3u8
+#EXTINF:-1 group-title="General",RUBIX HD
+http://116.90.120.149:8000/play/a00y/index.m3u8
+#EXTINF:-1 group-title="News",Roze TV
+http://116.90.120.149:8000/play/a0rp/index.m3u8
+#EXTINF:-1 group-title="News",SAMAA
+http://116.90.120.149:8000/play/a0ro/index.m3u8
+#EXTINF:-1 group-title="Religious",SAUDI CH For Quran HD
+http://116.90.120.149:8000/play/a0tc/index.m3u8
+#EXTINF:-1 group-title="Religious",SAUDI CH For Sunnah HD
+http://116.90.120.149:8000/play/a0td/index.m3u8
+#EXTINF:-1 group-title="Religious",SAUDI Quran HD
+http://116.90.120.149:8000/play/a01v/index.m3u8
+#EXTINF:-1 group-title="Religious",SAUDI Sunnah HD
+http://116.90.120.149:8000/play/a01w/index.m3u8
+#EXTINF:-1 group-title="Religious",SAUDI TV HD
+http://116.90.120.149:8000/play/a0tb/index.m3u8
+#EXTINF:-1 group-title="Religious",SAUDI TV HD
+http://116.90.120.149:8000/play/a01u/index.m3u8
+#EXTINF:-1 group-title="Movies",SCI- FI
+http://116.90.120.149:8000/play/a0ao/index.m3u8
+#EXTINF:-1 group-title="Movies",SCIFI HOTBIRD
+http://116.90.120.149:8000/play/a0l0/index.m3u8
+#EXTINF:-1 group-title="Entertainment",SET HD - Rs 30.00
+http://116.90.120.149:8000/play/a11u/index.m3u8
+#EXTINF:-1 group-title="Documentaries",SONY BBC EARTH HD
+http://116.90.120.149:8000/play/a130/index.m3u8
+#EXTINF:-1 group-title="Movies",SONY MAX HD - Rs 19.00
+http://116.90.120.149:8000/play/a123/index.m3u8
+#EXTINF:-1 group-title="Movies",SONY PIX HD
+http://116.90.120.149:8000/play/a138/index.m3u8
+#EXTINF:-1 group-title="Movies",SONY PIX HD - Rs 19.00
+http://116.90.120.149:8000/play/a0xl/index.m3u8
+#EXTINF:-1 group-title="Entertainment",SONY SAB HD
+http://116.90.120.149:8000/play/a128/index.m3u8
+#EXTINF:-1 group-title="Sports",SONY SPORTS TEN 1 - Rs 19.00
+http://116.90.120.149:8000/play/a126/index.m3u8
+#EXTINF:-1 group-title="Sports",SONY SPORTS TEN 1 HD - Rs 30.00
+http://116.90.120.149:8000/play/a11t/index.m3u8
+#EXTINF:-1 group-title="Sports",SONY SPORTS TEN 2 HD
+http://116.90.120.149:8000/play/a137/index.m3u8
+#EXTINF:-1 group-title="Sports",SONY SPORTS TEN 2 HD - Rs 30.00
+http://116.90.120.149:8000/play/a0xk/index.m3u8
+#EXTINF:-1 group-title="Sports",SONY SPORTS TEN 5
+http://116.90.120.149:8000/play/a117/index.m3u8
+#EXTINF:-1 group-title="Sports",SONY SPORTS TEN 5 HD - Rs 30.00
+http://116.90.120.149:8000/play/a12q/index.m3u8
+#EXTINF:-1 group-title="Movies",STAR GOLD HD
+http://116.90.120.149:8000/play/a12a/index.m3u8
+#EXTINF:-1 group-title="Movies",STAR Movies HD
+http://116.90.120.149:8000/play/a13a/index.m3u8
+#EXTINF:-1 group-title="Movies",STAR Movies HD - Rs 19.00
+http://116.90.120.149:8000/play/a0xn/index.m3u8
+#EXTINF:-1 group-title="Movies",STAR Movies Select HD
+http://116.90.120.149:8000/play/a139/index.m3u8
+#EXTINF:-1 group-title="Entertainment",STAR Plus HD - Rs 25.00
+http://116.90.120.149:8000/play/a11w/index.m3u8
+#EXTINF:-1 group-title="News",SUCH TV
+http://116.90.120.149:8000/play/a0rf/index.m3u8
+#EXTINF:-1 group-title="News",SUNO NEWS
+http://116.90.120.149:8000/play/a01q/index.m3u8
+#EXTINF:-1 group-title="News",SUNO NEWS-HD
+http://116.90.120.149:8000/play/a0rv/index.m3u8
+#EXTINF:-1 group-title="News",Samaa News
+http://116.90.120.149:8000/play/a01g/index.m3u8
+#EXTINF:-1 group-title="Regional",Sindh News
+http://116.90.120.149:8000/play/a01k/index.m3u8
+#EXTINF:-1 group-title="Regional",Sindh TV
+http://116.90.120.149:8000/play/a01j/index.m3u8
+#EXTINF:-1 group-title="Regional",Sindh TV
+http://116.90.120.149:8000/play/a0r6/index.m3u8
+#EXTINF:-1 group-title="Kids",Sonic Niclloking
+http://116.90.120.149:8000/play/a12e/index.m3u8
+#EXTINF:-1 group-title="Entertainment",Star Bharat HD
+http://116.90.120.149:8000/play/a13b/index.m3u8
+#EXTINF:-1 group-title="Movies",Star Gold 2
+http://116.90.120.149:8000/play/a12b/index.m3u8
+#EXTINF:-1 group-title="Movies",Star Gold Romance
+http://116.90.120.149:8000/play/a12c/index.m3u8
+#EXTINF:-1 group-title="Movies",Star Gold Select HD
+http://116.90.120.149:8000/play/a131/index.m3u8
+#EXTINF:-1 group-title="Sports",Star Sports 1 HD - Rs 19.00
+http://116.90.120.149:8000/play/a11x/index.m3u8
+#EXTINF:-1 group-title="Sports",Star Sports 1 Hindi HD - Rs 19.00
+http://116.90.120.149:8000/play/a122/index.m3u8
+#EXTINF:-1 group-title="Sports",Star Sports 2 HD - Rs 19.00
+http://116.90.120.149:8000/play/a120/index.m3u8
+#EXTINF:-1 group-title="Sports",Star Sports 2 Hindi HD - Rs 19.00
+http://116.90.120.149:8000/play/a12v/index.m3u8
+#EXTINF:-1 group-title="Sports",Star Sports 3 - Rs 19.00
+http://116.90.120.149:8000/play/a12w/index.m3u8
+#EXTINF:-1 group-title="Sports",Star Sports Select 1 HD - Rs 19.00
+http://116.90.120.149:8000/play/a12s/index.m3u8
+#EXTINF:-1 group-title="Sports",Star Sports Select 2 HD - Rs 15.00
+http://116.90.120.149:8000/play/a12r/index.m3u8
+#EXTINF:-1 group-title="News",TIME NEWS HD
+http://116.90.120.149:8000/play/a0s1/index.m3u8
+#EXTINF:-1 group-title="Documentaries",TLC HD
+http://116.90.120.149:8000/play/a11g/index.m3u8
+#EXTINF:-1 group-title="Movies",TV 1000
+http://116.90.120.149:8000/play/a0ap/index.m3u8
+#EXTINF:-1 group-title="Movies",TV 1000 ACTION
+http://116.90.120.149:8000/play/a0aq/index.m3u8
+#EXTINF:-1 group-title="Documentaries",TV EXPLOR
+http://116.90.120.149:8000/play/a0ar/index.m3u8
+#EXTINF:-1 group-title="Entertainment",TV ONE
+http://116.90.120.149:8000/play/a00o/index.m3u8
+#EXTINF:-1 group-title="Sports",Unite8 Sports 1 - Rs 7.00
+http://116.90.120.149:8000/play/a11l/index.m3u8
+#EXTINF:-1 group-title="Sports",Unite8 Sports 1 HD - Rs 9.00
+http://116.90.120.149:8000/play/a125/index.m3u8
+#EXTINF:-1 group-title="Sports",Unite8 Sports 2 HD
+http://116.90.120.149:8000/play/a129/index.m3u8
+#EXTINF:-1 group-title="Documentaries",VIJU HISTORY
+http://116.90.120.149:8000/play/a0as/index.m3u8
+#EXTINF:-1 group-title="Documentaries",VIJU NATURE
+http://116.90.120.149:8000/play/a0at/index.m3u8
+#EXTINF:-1 group-title="Sports",VIJU SPORTS
+http://116.90.120.149:8000/play/a0au/index.m3u8
+#EXTINF:-1 group-title="Regional",WASEB
+http://116.90.120.149:8000/play/a0rh/index.m3u8
+#EXTINF:-1 group-title="Movies",Zee Cinema HD - Rs 19.00
+http://116.90.120.149:8000/play/a12p/index.m3u8
+#EXTINF:-1 group-title="Movies",Zee Classic - Rs 1.00
+http://116.90.120.149:8000/play/a121/index.m3u8
+#EXTINF:-1 group-title="Entertainment",Zee Power HD
+http://116.90.120.149:8000/play/a11p/index.m3u8
+#EXTINF:-1 group-title="Entertainment",Zee TV HD - Rs 19.00
+http://116.90.120.149:8000/play/a11v/index.m3u8
+#EXTINF:-1 group-title="Movies",Zee Talkies HD
+http://116.90.120.149:8000/play/a116/index.m3u8
+#EXTINF:-1 group-title="Movies",Zee Thirai HD
+http://116.90.120.149:8000/play/a11q/index.m3u8
+#EXTINF:-1 group-title="Documentaries",Zee Zest HD - Rs 10.00
+http://116.90.120.149:8000/play/a12k/index.m3u8
+#EXTINF:-1 group-title="Movies",b4u   movie
+http://116.90.120.149:8000/play/a0f7/index.m3u8
+#EXTINF:-1 group-title="Entertainment",hum tv
+http://116.90.120.149:8000/play/a0r2/index.m3u8
+#EXTINF:-1 group-title="News",public tv
+http://116.90.120.149:8000/play/a0nq/index.m3u8
+#EXTINF:-1 group-title="News",such news
+http://116.90.120.149:8000/play/a0r1/index.m3u8
